@@ -1,0 +1,6 @@
+Previous Cost centers	Workday Cost centers
+Engagement - SST	STE | Planning & Operations
+Head of SST Office	STE | Office of the DVC - STEM College
+Engineering	STE | Office of the Dean - School of Engineering
+IT department	STE | Office of the Dean - School of Computing Technologies
+Psychology	STE | Psychology
